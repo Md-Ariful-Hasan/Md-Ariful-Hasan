@@ -1,6 +1,3 @@
-body{
-    background-image: url ("Web Devlopment Pic/Teeth2");
-}
 /* h2{ 
     color: aquamarine;
     text-decoration: blue underline dotted;
@@ -23,6 +20,10 @@ p{
     line-height: 30px;
     text-transform:inherit;
 }*/
+body{
+    background-image: "Teeth2.jpg";
+    background-size: cover;
+}
 *{ 
     /* padding: 0; */
     margin: 0;
