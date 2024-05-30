@@ -1,3 +1,6 @@
+body{
+    background-image: url ("Web Devlopment Pic/Teeth2");
+}
 /* h2{ 
     color: aquamarine;
     text-decoration: blue underline dotted;
@@ -113,6 +116,7 @@ li{
     left: 400px; /* position of the box 
     400px as "position: relative" method 
     used*/
+    /*z-index: 1; not hiting*/
 }
 #aboutLDC{
     font-size: 1.2em;/* font-size: 1.2em 
@@ -132,6 +136,7 @@ li{
     700px i.e. 7px */
     /* position: relative; 
     left: 400px;*/
+    /*z-index: 2; not hiting*/
 }
 #dentalshap{
     display: none;
